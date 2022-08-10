@@ -1,6 +1,6 @@
-# Page Title
+# Lyftology
 
-A short introduction for the top of your main page
+Welcome to Lyftology 
 
-
-More content you want on your page
+ Hello
+ 
